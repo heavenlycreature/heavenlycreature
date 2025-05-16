@@ -17,6 +17,16 @@ an undergraduate student Computer Science also self-taught passionate Fullstack 
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></a>
     <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
-  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-  
+  <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a> 
 </p>
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/heavenlycreature">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heavenlycreature&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
+<br>
+
