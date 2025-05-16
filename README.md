@@ -2,6 +2,7 @@
 <br />
 
 an undergraduate student Computer Science also self-taught passionate Fullstack Developer, I used to working on with React but lately i've been working on Back-End development such a Node.js, API, also maintaning deployment using docker.
+<br/>
 <h3>Things i code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
