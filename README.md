@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img width="80%" alt="Hello, I'm Olifian Lepin. Software Development enthusiast" src="./assets/gh-readme-header.png" /></p>
 
 <!--
 **heavenlycreature/heavenlycreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
